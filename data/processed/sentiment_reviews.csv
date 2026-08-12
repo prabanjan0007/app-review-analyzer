@@ -1,0 +1,21 @@
+review_id,rating,review,sentiment
+1,5,"Great application, very easy to use",Positive
+2,4,Very useful and works smoothly,Positive
+3,1,Constant crashes whenever I open the app,Neutral
+4,2,Too many advertisements,Positive
+5,5,Excellent application and great design,Positive
+6,2,The app is slow and keeps freezing,Negative
+7,4,Really useful features,Positive
+8,1,Cannot login after the latest update,Positive
+9,5,"Fast, simple and reliable",Positive
+10,3,It works but could be improved,Neutral
+11,5,Amazing app with a clean interface,Positive
+12,1,Crashes frequently and loses my data,Negative
+13,2,Ads appear too often and interrupt usage,Neutral
+14,4,"Good app, but notifications can be annoying",Negative
+15,5,Very helpful and easy to navigate,Positive
+16,2,Slow loading and sometimes freezes,Negative
+17,3,"Average experience, nothing special",Positive
+18,4,Useful app with good performance,Positive
+19,1,The latest update broke the login feature,Positive
+20,5,Excellent features and very reliable,Positive
