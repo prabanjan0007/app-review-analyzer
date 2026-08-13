@@ -1,7 +1,10 @@
 # 📱 Mobile App Review Analyzer
 
 An end-to-end data analytics project for analyzing mobile application reviews using Python, sentiment analysis, data visualization, and an interactive Streamlit dashboard.
+🚀 Live Demo
 
+**[Open the deployed Streamlit dashboard](https://review-analyzer-app.streamlit.app/)**
+Explore the dashboard directly in your browser.
 ## 🎯 Project Overview
 
 The Mobile App Review Analyzer turns review data into practical insights about user ratings, sentiment, feedback patterns, common complaints, and positive feedback.
@@ -19,6 +22,14 @@ The Mobile App Review Analyzer turns review data into practical insights about u
 - 🌙 Light and dark themes
 - 💡 Common complaints and positive feedback analysis
 
+📸 Visualization Preview
+
+### Rating Distribution
+![Rating Distribution](images/rating_distribution.png)
+### Sentiment Distribution
+![Sentiment Distribution](images/sentiment_distribution.png)
+### Common Complaints
+![Common Complaints](images/common_complaints.png)
 
 ## 🛠️ Technology Stack
 
