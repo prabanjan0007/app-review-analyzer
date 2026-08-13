@@ -6,7 +6,7 @@ An end-to-end data analytics project for analyzing mobile application reviews us
 
 The Mobile App Review Analyzer turns review data into practical insights about user ratings, sentiment, feedback patterns, common complaints, and positive feedback.
 
-## ✨ Features
+## ⚓Features
 
 - ⭐ Average rating and rating distribution
 - 💬 Total review analysis
@@ -19,28 +19,8 @@ The Mobile App Review Analyzer turns review data into practical insights about u
 - 🌙 Light and dark themes
 - 💡 Common complaints and positive feedback analysis
 
-## 🔄 Project Workflow
-
-```text
-Raw Review Data
-      ↓
-Data Cleaning & Preprocessing
-      ↓
-Exploratory Data Analysis
-      ↓
-Rating Analysis + Sentiment Analysis
-      ↓
-Feedback Analysis
-      ↓
-Data Visualization
-      ↓
-Interactive Streamlit Dashboard
-```
-
 ## 🏗️ Project Structure
-
-```text
-app-review-analyzer/
+MOBILE APP REVIEW ANALYZER
 │
 ├── dashboard/
 │   └── app.py
@@ -83,17 +63,6 @@ app-review-analyzer/
 - **Streamlit** — interactive dashboard
 - **Git & GitHub** — version control and project hosting
 
-## 📊 Dashboard
-
-The Streamlit dashboard provides a centralized view of application review performance.
-
-It includes metric cards for average rating, total reviews, and sentiment percentages, together with multiple visualization types:
-
-- 🍩 Donut charts
-- 📈 Line charts
-- 🎯 Gauge visualization
-- 📊 Distribution visualizations
-
 ## ⚙️ Installation
 
 Clone the repository:
@@ -121,31 +90,8 @@ Then open:
 http://localhost:8501
 ```
 
-## 📁 Data
 
-Raw review data is stored in:
-
-```text
-data/raw/reviews.csv
-```
-
-Processed datasets are stored in:
-
-```text
-data/processed/
-```
-
-These include cleaned reviews, sentiment-related data, common complaints, and common positive feedback.
-
-## 📸 Visual Assets
-
-Supporting charts and dashboard assets are stored in:
-
-```text
-images/
-```
-
-## 💡 What This Project Demonstrates
+##  What This Project Demonstrates
 
 This project demonstrates an end-to-end workflow covering:
 
@@ -168,18 +114,9 @@ This project demonstrates an end-to-end workflow covering:
 - Add keyword and topic extraction
 - Add review search and advanced filtering
 - Add automated data updates
-- Deploy the Streamlit dashboard publicly
 - Add additional business-oriented insights
 
 ## 👨‍💻 Author
 
-**Prabanjan**  
-AI & Data Science Student
-
+**Prabanjan** 
 GitHub: https://github.com/prabanjan0007
-
-## 📌 Project Status
-
-**Completed — Portfolio Project**
-
-The current version focuses on mobile application review analytics, sentiment analysis, feedback analysis, visualization, and an interactive Streamlit dashboard.
