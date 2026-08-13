@@ -3,3 +3,5 @@ matplotlib
 seaborn
 textblob
 streamlit
+numpy
+plotly
