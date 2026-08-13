@@ -19,40 +19,6 @@ The Mobile App Review Analyzer turns review data into practical insights about u
 - 🌙 Light and dark themes
 - 💡 Common complaints and positive feedback analysis
 
-## 🏗️ Project Structure
-MOBILE APP REVIEW ANALYZER
-│
-├── dashboard/
-│   └── app.py
-│
-├── data/
-│   ├── processed/
-│   │   ├── cleaned_reviews.csv
-│   │   ├── common_complaints.csv
-│   │   ├── common_positive_feedback.csv
-│   │   └── sentiment_reviews.csv
-│   └── raw/
-│       └── reviews.csv
-│
-├── images/
-│   ├── common_complaints.png
-│   ├── common_positive_feedback.png
-│   ├── rating_distribution.png
-│   └── sentiment_distribution.png
-│
-├── src/
-│   ├── eda.py
-│   ├── feedback_analysis.py
-│   ├── feedback_visualization.py
-│   ├── rating_sentiment.py
-│   ├── review_analysis.py
-│   ├── sentiment_analysis.py
-│   ├── sentiment_visualization.py
-│   └── visualization.py
-│
-├── .gitignore
-└── requirements.txt
-```
 
 ## 🛠️ Technology Stack
 
